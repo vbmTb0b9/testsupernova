@@ -1,0 +1,66 @@
+{
+  "gradient": {
+    "gradient": {
+      "value": {
+        "to": {
+          "type": "point",
+          "value": {
+            "x": {
+              "type": "size",
+              "value": 2.220446049250313e-16
+            },
+            "y": {
+              "type": "size",
+              "value": 1
+            }
+          }
+        },
+        "from": {
+          "type": "point",
+          "value": {
+            "x": {
+              "type": "size",
+              "value": 1
+            },
+            "y": {
+              "type": "size",
+              "value": 0
+            }
+          }
+        },
+        "type": {
+          "type": "string",
+          "value": "Linear"
+        },
+        "aspectRatio": {
+          "type": "size"
+        },
+        "stops": {
+          "0": {
+            "type": "gradientStop",
+            "position": {
+              "type": "size",
+              "value": 0
+            },
+            "color": {
+              "type": "color",
+              "value": "#86ff8bff"
+            }
+          },
+          "1": {
+            "type": "gradientStop",
+            "position": {
+              "type": "size",
+              "value": 1
+            },
+            "color": {
+              "type": "color",
+              "value": "#f891d5ff"
+            }
+          }
+        }
+      },
+      "type": "gradient"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "color": {
+    "3plus-blue-500": {
+      "value": "#0d59f2ff",
+      "type": "color"
+    },
+    "3plus-blue-400": {
+      "value": "#3d7af5ff",
+      "type": "color"
+    },
+    "3plus-blue-300": {
+      "value": "#76a4ffff",
+      "type": "color"
+    },
+    "success": {
+      "value": "#27ae60ff",
+      "type": "color"
+    },
+    "error": {
+      "value": "#eb5757ff",
+      "type": "color"
+    }
+  }
+}
