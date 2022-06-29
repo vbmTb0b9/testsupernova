@@ -19,6 +19,10 @@
     "error": {
       "value": "#eb5757ff",
       "type": "color"
+    },
+    "border10": {
+      "value": "#000000ff",
+      "type": "color"
     }
   }
 }
