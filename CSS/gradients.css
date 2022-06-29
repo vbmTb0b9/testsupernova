@@ -1,0 +1,9 @@
+
+:root {
+    --gradientGradient: linear-gradient(
+          225deg,
+          #86ff8b 0%,   
+          #f891d5 100%  
+        )
+        ;    
+}
