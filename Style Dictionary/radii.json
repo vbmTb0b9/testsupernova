@@ -1,3 +1,22 @@
 {
-  "radius": {}
+  "radius": {
+    "radius16": {
+      "value": {
+        "radius": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 16
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        }
+      },
+      "type": "radius"
+    }
+  }
 }
