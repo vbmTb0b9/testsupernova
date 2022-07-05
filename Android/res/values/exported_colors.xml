@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#ffd2212a</color>
+    <color name="color_red_value">#ffd2212a</color>
+    <color name="color_black_1000_value">#ff000000</color>
+
+    <color name="global_black_000">#ff000000</color>
+    <color name="global_black_1000">#ff00040d</color>
+
+    <color name="global_alias_background_main">#ff000000</color>
+    <color name="global_alias_background_btn">#ff000000</color>
+
+
+</resources>
